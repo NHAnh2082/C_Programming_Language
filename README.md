@@ -1,8 +1,3 @@
-# C
-
-<details><summary>Nhấp vào đây để xem chi tiết</summary>
-<p>
-
 <details><summary><b>1. Compiler</b></summary>
 <p>
 
@@ -5402,9 +5397,6 @@ Nguyên lý hoạt động:
 - **Source Code triển khai Binary Search**: https://github.com/NHAnh2082/C_Programming_Language/tree/85bf7f09bc7e35ce08a945981b60992579fdde83/Source%20Code/SearchAlgorithm
 
 <br>
-
-</p>
-</details>
 
 </p>
 </details>
