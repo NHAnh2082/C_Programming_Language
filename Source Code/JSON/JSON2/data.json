@@ -1,0 +1,10 @@
+{
+    "device_name": "STM32F407",
+    "firmware_version": "1.0.2",
+    "parameters": {
+        "baud_rate": 115200,
+        "adc_resolution": 12,
+        "pwm_frequency": 1000,
+        "debug_mode": true
+    }
+}
